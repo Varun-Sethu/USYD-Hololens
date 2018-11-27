@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/TicTacToe.dir/main.cpp.o  -o TicTacToe.exe -Wl,--out-implib,libTicTacToe.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
